@@ -1,5 +1,5 @@
 #Demo Git Repository
-This is the first file in this repo
+This is the base Help file in this repo
 
 ## Website Content
 Here are files in our website
